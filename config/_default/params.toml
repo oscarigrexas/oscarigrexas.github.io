@@ -1,0 +1,30 @@
+# Site stuff
+enableZoomingJS = true
+enableTOC = true
+enableSiteSearch = true
+enableMathJax = false
+
+# Codeblock
+usePrismJS = false
+enablePrismJSLineNo = true
+enableCodeCopy = true
+
+# SEO
+enableOpenGraph = true
+enableTwitterCards = true
+author = "oscarigrexas"
+
+# Custom CSS
+customCSS = ["css/custom.css"]
+
+# Gallery
+galleryMatch = "images/*"
+gallerySortOrder = "desc"
+galleryRowHeight = 150
+galleryMargins = 20
+galleryThumbnailResizeOptions = "600x600 q90 Lanczos"
+galleryShowExif = false
+galleryPreviewType = "blur"
+galleryEmbedPreview = true
+galleryLoadJQuery = true
+galleryFilterOptions = "[{label: 'All', tags: '.*'}, {label: 'Birds', tags: 'pajaro'}, {label: 'Macro', tags: 'macro'}, {label: 'Insects', tags: 'insect'}]"

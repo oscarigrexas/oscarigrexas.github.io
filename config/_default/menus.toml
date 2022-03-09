@@ -1,0 +1,29 @@
+[[navbar]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 1
+
+[[navbar]]
+identifier = "tech-blog"
+name = "tech-blog"
+url = "/tech-blog/"
+weight = 2
+
+[[navbar]]
+identifier = "life-blog"
+name = "life-blog"
+url = "/life-blog/"
+weight = 3
+
+[[navbar]]
+identifier = "art"
+name = "art"
+url = "/art/"
+weight = 4
+
+[[navbar]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 5

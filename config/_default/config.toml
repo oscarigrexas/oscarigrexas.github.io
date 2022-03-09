@@ -1,0 +1,13 @@
+baseURL = "http://example.com"
+languageCode = "es"
+defaultContentLanguage = "es"
+title = "Omscar Inmglensians"
+theme = ["hugo-theme-monochrome", "hugo-shortcode-gallery"]
+
+[build]
+writeStats = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

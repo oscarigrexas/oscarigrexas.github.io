@@ -1,0 +1,5 @@
+[es]
+contentDir = "content/es"
+languageName = "Spanish"
+languageCode = "es"
+weight = 1

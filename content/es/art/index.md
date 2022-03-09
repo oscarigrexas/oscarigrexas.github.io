@@ -1,0 +1,7 @@
+---
+title: "Arte"
+---
+
+# Arte
+
+{{< gallery >}}
